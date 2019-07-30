@@ -6,4 +6,5 @@
   - Biased (https://www.spoj.com/problems/BAISED/)
   - Trie Implementation
   - Phonebook using Trie
+  - Digital dictionary - hackerblocks
   
